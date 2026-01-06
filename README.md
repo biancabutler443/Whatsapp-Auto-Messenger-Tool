@@ -59,6 +59,8 @@ Whatsapp (Facebook) has recently released (02 August 2018) official support for 
 
 If you found this project helpful and would like to support its development, consider buying me a coffee! Your support helps me create more useful tools and maintain this project.
 
-[![Buy Me A Coffee](./buymeacoffee.png)](https://www.buymeacoffee.com)
+[![Buy Me A Coffee](./buymeacoffee.png)](https://buymeacoffee.com/biancabutler)
+
+[![Ko-fi](./ko-fi.png)](https://ko-fi.com/butlerbianca)
 
 You can also discover other premium tools and resources that I've created to help make your development journey easier.
